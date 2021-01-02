@@ -1,1 +1,1 @@
-# window_store
+# window_landing_page
